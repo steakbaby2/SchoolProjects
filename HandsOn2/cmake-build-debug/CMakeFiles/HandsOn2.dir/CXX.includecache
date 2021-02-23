@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/College/Semester6/CSC-361-77/HandsOnAssignments/HandsOn2/PIG.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+
